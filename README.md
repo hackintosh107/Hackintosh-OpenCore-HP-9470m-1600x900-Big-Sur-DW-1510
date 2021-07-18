@@ -1,0 +1,1 @@
+# Hackintosh-OpenCore-HP-9470m-1600x900-Big-Sur-DW-1510
